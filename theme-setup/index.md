@@ -34,8 +34,8 @@ General notes and suggestions for customizing **HPSTR**.
 3. Set the following variables in your `config.yml` file:
 
 {% highlight yaml %}
-title:            Site Title
-description:      Describe your website here.
+title:            Chaos's bolg
+description:      技术博客.
 disqus_shortname: shortname
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -43,10 +43,10 @@ url:              //mmistakes.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Chaos
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "梦想是不能有的，万一实现了呢？"
+  email:           Lvcz777@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
