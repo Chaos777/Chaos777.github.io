@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            Chaos's Blog
+description:      技术博客.
+disqus_shortname: Chaos
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Chaos
+  avatar:         whu02.jpg
+  bio:            "梦想是不能有的，万一实现了呢？"
+  email:           Lvcz777@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:          Chaos777 
   stackexchange:  
   linkedin:       
   instagram:      
@@ -34,6 +34,22 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+#  - title: Theme Setup
+#    url: /theme-setup
+  - title: 作品
+    url: #
+    external: true
+  - title: OSC
+    url: http://my.oschina.net/Chaos777/blog
+    external: true
+#  - title: GitHub
+#    url: https://github.com/Chaos777
+#    external: true
+    
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
