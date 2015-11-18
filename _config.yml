@@ -1,5 +1,5 @@
 title:            Chaos's Blog
-description:      ¼¼Êõ²©¿Í.
+description:      æŠ€æœ¯åšå®¢.
 disqus_shortname: Chaos
 reading_time:     true
 words_per_minute: 200
@@ -11,7 +11,7 @@ url:
 owner:
   name:           Chaos
   avatar:         whu02.jpg
-  bio:            "ÃÎÏëÊÇ²»ÄÜÓĞµÄ£¬ÍòÒ»ÊµÏÖÁËÄØ£¿"
+  bio:            "æ¢¦æƒ³æ˜¯ä¸èƒ½æœ‰çš„ï¼Œä¸‡ä¸€å®ç°äº†å‘¢ï¼Ÿ"
   email:           Lvcz777@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -40,7 +40,7 @@ bing_verify:
 links:
 #  - title: Theme Setup
 #    url: /theme-setup
-  - title: ×÷Æ·
+  - title: ä½œå“
     url: #
     external: true
   - title: OSC
