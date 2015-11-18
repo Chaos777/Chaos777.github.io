@@ -1,27 +1,27 @@
-title:            Chaos's Blog
-description:      技术博客.
+title:            Chaos's blog
+description:      Chaos技术博客,分享自己的技术心得,积累前段技能,汇聚前端之路的点点滴滴。
 disqus_shortname: Chaos
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url:
+#Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://chaos777.github.io
 
 # Owner/author information
 owner:
   name:           Chaos
   avatar:         whu02.jpg
   bio:            "梦想是不能有的，万一实现了呢？"
-  email:           Lvcz777@gmail.com
+  email:          Lvcz777@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:          Chaos777 
+  github: Chaos777         
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +yourid
 
@@ -34,38 +34,33 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
-
 # Links to include in top navigation
 # For external links add external: true
 links:
 #  - title: Theme Setup
 #    url: /theme-setup
   - title: 作品
-    url: #
+    url: http://chaos777.github.io/works
     external: true
   - title: OSC
-    url: http://my.oschina.net/Chaos777/blog
+    url: http://my.oschina.net/u/551527/blog
     external: true
 #  - title: GitHub
 #    url: https://github.com/Chaos777
 #    external: true
     
+
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
 highlighter: pygments
 markdown:    kramdown
-gems:
-  - jekyll-sitemap
-sass:
-  sass_dir: _sass
-  style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 kramdown:
   auto_ids: true

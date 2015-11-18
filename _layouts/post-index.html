@@ -11,9 +11,8 @@
 
 {% include browser-upgrade.html %}
 {% include navigation.html %}
-
 <div class="entry-header">
-  {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
+  <!--{% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div>/.image-credit{% endif %}-->
   {% if page.image.feature %}
     <div class="entry-image">
       <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
@@ -25,6 +24,7 @@
       <h2>{{ page.title }}</h2>
     </div><!-- /.header-title-wrap -->
   </div><!-- /.header-title -->
+  <span style="position:absolute;right:5px;bottom:5px;color:rgb(204, 194, 194)">你妹的是在这里改啊</span>
 </div><!-- /.entry-header -->
 
 <div id="main" role="main">
