@@ -40,10 +40,10 @@ links:
 #  - title: Theme Setup
 #    url: /theme-setup
   - title: 作品
-    url: http://chaos777.github.io/works
+    url: #
     external: true
   - title: OSC
-    url: http://my.oschina.net/u/551527/blog
+    url: http://my.oschina.net/Chaos777/blog
     external: true
 #  - title: GitHub
 #    url: https://github.com/Chaos777
